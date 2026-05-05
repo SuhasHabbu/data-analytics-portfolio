@@ -11,10 +11,11 @@ Aspiring Data Analyst with a strong focus on SQL, Excel, and Power BI. I am buil
 * Description: Analyzing retail sales data to identify trends, profitability, and regional performance.
 * Key Focus: Data Cleaning, Pivot Tables, Business Insights
 
-🔹 Superstore Sales Analysis
+🔹 Netflix Shows Analysis
 * Tools: Excel
-* Description: Analyzed retail sales data to identify trends, profitability, and regional performance.
-* Key Skills: Data Cleaning, Pivot Tables, Data Visualization
+* Description: Analyzed Netflix dataset to understand content distribution, growth trends, and genre patterns.
+* Key Skills: Data Cleaning, Trend Analysis, Visualization
+
 
 (More projects will be added soon)
 
